@@ -1,24 +1,24 @@
 # CodeAlpha_EDA_Task2
 # 📊 Exploratory Data Analysis (EDA) on Quotes Dataset
 
-## 📌 Overview
+## Overview
 
 This project performs Exploratory Data Analysis (EDA) on a Quotes Dataset to uncover patterns, analyze quote characteristics, and generate meaningful insights using Python.
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 * Python
 * Pandas
 * Matplotlib
 * Seaborn
 
-## 📂 Dataset Columns
+## Dataset Columns
 
 * Quote
 * Author
 * Tags
 
-## 📈 Analysis Performed
+## Analysis Performed
 
 * Data Structure Exploration
 * Missing Value Analysis
@@ -28,26 +28,18 @@ This project performs Exploratory Data Analysis (EDA) on a Quotes Dataset to unc
 * Top Tags Analysis
 * Data Visualization
 
-## 🔍 Key Insights
+## Key Insights
 
 * Identified the most frequent authors.
 * Analyzed quote length distribution.
 * Found the most common tags.
 * Detected potential outliers in quote lengths.
 
-## ▶️ Run the Project
+## Run the Project
 
 ```bash
 pip install pandas matplotlib seaborn
 python EDA.py
 ```
-
-## 📁 Files
-
-* `EDA.py`
-* `quotes.csv`
-* `EDA_Summary_Report.csv`
-
----
 
 **CodeAlpha Data Analytics Internship – Task 2**
